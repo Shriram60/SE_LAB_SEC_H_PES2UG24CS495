@@ -11,6 +11,9 @@ optional features: win-streak multiplier (Task 2), tie/push handling (Task 3),
 and the side-by-side card reveal (Task 4). LLM prompt history is in
 `pes2ug24cs495_prompts_lab04.docx`.
 
+Gameplay videos are in `videos/` — `before_fix.mp4` (bug/broken behaviour)
+and `after_fix.mp4` (fixed bug + new features working).
+
 Run with `pip install pygame` then `python main.py`.
 
 ---

@@ -12,3 +12,4 @@ SEC:H
 - [LAB4](LAB4) — Vibe Coding
 - [LAB5](LAB5) — Static Code Analysis (Pylint, Bandit, Flake8)
 - [LAB6](LAB6) — Code and Branch Coverage Analysis (coverage, pytest)
+- [LAB7](LAB7) — Fuzz Testing for Input Validation Bugs (Hypothesis, pytest)
